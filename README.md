@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mergu1000
+- 👀 I’m interested in electronics & robotics
+- 🌱 I’m currently learning electronical Engeneering
