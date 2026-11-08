@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mergu1000
+- 👋 Hi, I’m Marco Barsoum
 - 👀 I’m interested in electronics & robotics
 - 🌱 I’m currently learning electronical Engeneering
