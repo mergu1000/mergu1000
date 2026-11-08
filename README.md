@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Marco Barsoum
 - 👀 I’m interested in electronics & robotics
-- 🌱 I’m currently studing electronical Engeneering & IoT at The University of Trieste
+- 🌱 I’m currently studing Electronics & IoT Engeneering at The University of Trieste
